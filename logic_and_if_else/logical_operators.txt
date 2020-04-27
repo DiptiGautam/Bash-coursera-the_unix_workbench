@@ -1,0 +1,7 @@
+
+Logical Operator	Meaning	Usage
+=~	Matches Regular Expression	[[ $consonants =~ [aeiou] ]]
+=	String Equal To	[[ $password = "pegasus" ]]
+!=	String Not Equal To	[[ $fruit != "banana" ]]
+!	Not	[[ ! "apple" =~ ^b ]]
+
